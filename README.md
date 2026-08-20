@@ -48,7 +48,9 @@ The application supports **Admin and Student roles**, with role-based access to 
 - Required tables are automatically created when the application starts
 
 ### Structure
-`
+
+```
+
 TechQuiz App
 │
 ├── GUI
@@ -73,4 +75,5 @@ TechQuiz App
 └── Config
     ├── DBConnection
     └── DBInitializer
-`
+
+```
